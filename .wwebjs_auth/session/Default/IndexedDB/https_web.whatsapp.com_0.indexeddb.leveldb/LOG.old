@@ -1,0 +1,5 @@
+2022/03/07-16:57:43.399 8058 Creating DB C:\Users\Vincent\OneDrive\Desktop\whatsapp.js\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2022/03/07-16:57:43.416 8058 Reusing MANIFEST C:\Users\Vincent\OneDrive\Desktop\whatsapp.js\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/03/07-16:58:16.860 4dbc Level-0 table #5: started
+2022/03/07-16:58:16.932 4dbc Level-0 table #5: 1215108 bytes OK
+2022/03/07-16:58:16.939 4dbc Delete type=0 #3

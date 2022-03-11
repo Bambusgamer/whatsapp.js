@@ -1,0 +1,23 @@
+{
+	"name": "whatsapp.js",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start_src": "node ./src/index.js",
+		"start": "node ./module_vp/index.js"
+	},
+	"author": "bambus",
+	"license": "MIT",
+	"dependencies": {
+		"axios": "^0.26.1",
+		"cron": "^1.8.2",
+		"fs": "^0.0.1-security",
+		"moment": "^2.29.1",
+		"path": "^0.12.7",
+		"qrcode-terminal": "^0.12.0",
+		"whatsapp-web.js": "^1.16.4",
+		"xml-js": "^1.6.11"
+	}
+}
