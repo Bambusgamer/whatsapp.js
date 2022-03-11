@@ -6,7 +6,7 @@ const config = require('../config');
 convert = require('xml-js');
 const path = require('path');
 
-let scraper = new cron.CronJob('0 * * * *', function () {
+let scraper = new cron.CronJob('*/2 * * * * *', function () {
     axios
         .get(config.planurl, { auth: { username: 'schueler', password: 'bbgym' } })
         .then((res) => {
